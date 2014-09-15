@@ -6,6 +6,7 @@ package com.rafaelkerr.appclientrestspring.app;
 public class Greeting {
 
     private String id;
+
     private String content;
 
     public String getId() {
